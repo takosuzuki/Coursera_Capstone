@@ -1,4 +1,32 @@
-# This notebook will be mainly used for Coursera Capstone Project
-print ("Hello Coursera Capstone Project!")
-import pandas as pd
-import numpy as np
+CAPSTONE PROJECT (WEEK 1) - The Battle of the Neighborhood
+
+INTRODUCTION & BUSINESS PROBLEM:
+
+-Problem-
+A Chinese business owner wishes to open a store that sells high-end products that are particularly catered to the Chinese immigrants. 
+However, most of the Chinatown in New York City is populated with middle-class or lower-class immigrants. To ensure the products will sell, 
+it is crucial to select a location that will give the best ROI. 
+
+-Background-
+The New York metropolitan area is home to the largest and most prominent ethnic Chinese population outside of Asia, hosting Chinese populations representing all 34 provincial-level administrative units of China and constituting the largest metropolitan Asian American group in the 
+United States as well as the largest Asian-national metropolitan diaspora in the Western Hemisphere. The Chinese American population of the New York City metropolitan area was an 
+estimated 893,697 as of 2017. New York City itself contains by far the highest ethnic Chinese population of any individual city outside Asia, estimated 628,763 as of 2017
+New York City and the surrounding area, including Long Island and parts of New Jersey, is home to 12 CHinatowns, early U.S. racial ghettos where Chinese immigrants were made to live for economic 
+survival and physical safety that are now know as important sites of tourism and urban economic activity. 
+With such competitive market, it is important to strategically choose a location. 
+
+-Selected Data-
+
+Data #1:
+In order to select the best Chinese neighborhood to open the store, we need to collect all the demographics statistics in NYC.
+Link to the dataset is: https://data.cityofnewyork.us/City-Government/Demographic-Statistics-By-Zip-Code/kku6-nxdu
+
+Data #2: 
+After examining the demographic in NYC, we need to select a neighborhood with the most dense Chinese popoulation 
+Link to the dataset is: https://geo.nyu.edu/catalog/nyu_2451_34572
+
+Data #3:
+The income of NYC sectioned by neighborhood is especially important for selling high-end products.
+Link to the dataset is: http://www.city-data.com/nbmaps/neigh-New-York-New-York.html
+
+
